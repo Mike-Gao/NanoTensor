@@ -9,8 +9,10 @@ A lightweight tensor computation library with automatic differentiation, impleme
 - Lightweight
 - Educational-focused design
 
+```
 mini-tensor/
 ├── tensor.py       # Core tensor class with autograd
 ├── mlp.py          # Neural network implementation
 ├── util.py         # Activation functions & optimizers
 └── requirements.txt
+```
